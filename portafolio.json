@@ -1,0 +1,27 @@
+[
+  {"titulo": "Movilab del Peru",
+    "imagen": "",
+    "tecnologias": ["html","css", "javascript","wordepress"],
+    "enlace": "https://movilabperu.com/"
+  },
+  {"titulo": "Quimica Torres",
+    "imagen": "",
+    "tecnologias": ["html","css", "javascript"],
+    "enlace": "https://www.quimitorres.com/"
+  },
+  {"titulo": "Dentis",
+    "imagen": "",
+    "tecnologias": ["html","css", "javascript"],
+    "enlace": "https://consultoriodentis.com/"
+  },
+  {"titulo": "HappyIce",
+    "imagen": "",
+    "tecnologias": ["html","css", "javascript", "bootstrap"],
+    "enlace": "https://kevineramos.github.io/happyice/"
+  },
+  {"titulo": "Api Peliculas",
+    "imagen": "",
+    "tecnologias": ["html","css", "javascript","bootstrap", "api fetch"],
+    "enlace": "https://kevineramos.github.io/kevinmovie/"
+  }
+]
