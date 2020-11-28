@@ -1,7 +1,7 @@
 [
   {"titulo": "Movilab del Peru",
     "imagen": "https://kevineramos.github.io/json/img/movilabimg.PNG",
-    "tecnologias": ["css", "JS","WORDPRESS"],
+    "tecnologias": ["CSS", "JS","WORDPRESS"],
     "enlace": "https://movilabperu.com/"
   },
   {"titulo": "Quimica Torres",
