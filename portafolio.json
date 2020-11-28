@@ -1,27 +1,27 @@
 [
   {"titulo": "Movilab del Peru",
     "imagen": "https://kevineramos.github.io/json/img/movilabimg.PNG",
-    "tecnologias": ["html","css", "javascript","wordpress"],
+    "tecnologias": ["css", "JS","WORDPRESS"],
     "enlace": "https://movilabperu.com/"
   },
   {"titulo": "Quimica Torres",
     "imagen": "https://kevineramos.github.io/json/img/quimitorresimg.PNG",
-    "tecnologias": ["html","css", "javascript"],
+    "tecnologias": ["CSS", "JS"],
     "enlace": "https://www.quimitorres.com/"
   },
   {"titulo": "Dentis",
     "imagen": "https://kevineramos.github.io/json/img/dentisimg.PNG",
-    "tecnologias": ["html","css", "javascript"],
+    "tecnologias": ["CSS", "JS"],
     "enlace": "https://consultoriodentis.com/"
   },
   {"titulo": "HappyIce",
     "imagen": "https://kevineramos.github.io/json/img/happyiceimg.PNG",
-    "tecnologias": ["html","css", "javascript", "bootstrap"],
+    "tecnologias": ["CSS", "JS", "BOOTSTRAP"],
     "enlace": "https://kevineramos.github.io/happyice/"
   },
   {"titulo": "Api Peliculas",
     "imagen": "https://kevineramos.github.io/json/img/kevinmovieimg.PNG",
-    "tecnologias": ["html","css", "javascript","bootstrap", "api fetch"],
+    "tecnologias": ["CSS", "JS","BOOTSTRAP", "API FETCH"],
     "enlace": "https://kevineramos.github.io/kevinmovie/"
   }
 ]
