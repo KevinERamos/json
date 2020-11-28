@@ -1,26 +1,26 @@
 [
   {"titulo": "Movilab del Peru",
-    "imagen": "",
+    "imagen": "https://kevineramos.github.io/json/img/movilabimg.PNG",
     "tecnologias": ["html","css", "javascript","wordepress"],
     "enlace": "https://movilabperu.com/"
   },
   {"titulo": "Quimica Torres",
-    "imagen": "",
+    "imagen": "https://kevineramos.github.io/json/img/quimitorresimg.PNG",
     "tecnologias": ["html","css", "javascript"],
     "enlace": "https://www.quimitorres.com/"
   },
   {"titulo": "Dentis",
-    "imagen": "",
+    "imagen": "https://github.com/KevinERamos/json/tree/main/img",
     "tecnologias": ["html","css", "javascript"],
     "enlace": "https://consultoriodentis.com/"
   },
   {"titulo": "HappyIce",
-    "imagen": "",
+    "imagen": "https://kevineramos.github.io/json/img/happyiceimg.PNG",
     "tecnologias": ["html","css", "javascript", "bootstrap"],
     "enlace": "https://kevineramos.github.io/happyice/"
   },
   {"titulo": "Api Peliculas",
-    "imagen": "",
+    "imagen": "https://kevineramos.github.io/json/img/kevinmovieimg.PNG",
     "tecnologias": ["html","css", "javascript","bootstrap", "api fetch"],
     "enlace": "https://kevineramos.github.io/kevinmovie/"
   }
